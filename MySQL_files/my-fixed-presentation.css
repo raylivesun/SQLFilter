@@ -1,0 +1,39 @@
+/* Presentation Stylesheet */ 
+
+h2 {
+ margin:0;
+ padding:15px;
+ color:navy;
+ font-size:22px;
+ }
+h3, p {
+ margin:0;
+ padding:15px;
+ }
+ul.small_ol {
+    font-size:11px;
+}
+
+li {
+    margin:0 ;
+    padding: 0px;
+    list-style-type: circle;
+    list-style-position: outside;
+}
+
+h4 {
+ margin:0; 
+ padding: 5px 0;
+ }
+blockquote {
+    font-style: italic;
+    color: grey; 
+}
+ /* 
+p:first-letter {
+ font-size: 80%; 
+ font-weight: bold;
+ color:blue;
+ }
+
+ */
